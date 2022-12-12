@@ -24,7 +24,7 @@
 - 💞️ I’m looking to collaborate with other python developers
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abdulrahman-ragab-developer.my.canva.site/)
 - 📫 How to reach me: **abdulrahman.ragab.kabil@gmail.com**
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1BfwejvDQKhvw9NVlvj2JfssAva4aWrNT/view?usp=sharing)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1HGQ0A4gz_HogIVAR3b1l71YrIm3w1dSH/view?usp=sharing)
 
 Like My Work?
 
@@ -56,14 +56,14 @@ Like My Work?
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-Kabil-developer&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Kabil-developer&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-Kabil-developer1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Kabil-developer1&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Kabil-developer&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Kabil-developer1&hide_border=true" />
 </details>
 
 #
