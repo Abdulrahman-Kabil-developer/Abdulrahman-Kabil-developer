@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://media.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" width="35"/>, I'm Abdulrahman Ragab Kabil </h1>
-<h3 align="center">I'm a Software Developer, from Cairo,EG </h3>
+<h3 align="center">I'm a Software Developer (backend), from Cairo,EG </h3>
 <br>
 
 <div id="badges" align="center">
@@ -24,7 +24,7 @@
 - 💞️ I’m looking to collaborate with other python developers
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abdulrahman-ragab-developer.my.canva.site/)
 - 📫 How to reach me: **abdulrahman.ragab.kabil@gmail.com**
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/10EZmKOWmT0xfr0Wr68EqMiTv3DfuR8oU/view?usp=sharing)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1BfwejvDQKhvw9NVlvj2JfssAva4aWrNT/view?usp=sharing)
 
 Like My Work?
 
