@@ -17,14 +17,14 @@
   <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" align="center" />
 </div>
 
-### 😄 Glad to see you here!    ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Abdulrahman-Kabil-developer1.visitor-badge)
+### 😄 Glad to see you here!    ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAbdulrahman-Kabil-developer1&labelColor=%2337d67a&countColor=%232ccce4)
 
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python FrameWorks
-- 💞️ I’m looking to collaborate with other python developers
+- 👀 I’m interested in Web Development (backend) and NLP
+- 🌱 I’m currently learning NodeJS
+- 💞️ I’m looking to collaborate with other python developers and NLP developers
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abdulrahman-ragab-developer.my.canva.site/)
 - 📫 How to reach me: **abdulrahman.ragab.kabil@gmail.com**
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1HGQ0A4gz_HogIVAR3b1l71YrIm3w1dSH/view?usp=sharing)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1ZRd7uJUR_zAmBHVHVNwhMKly_ofcOHz-/view?usp=sharing)
 
 Like My Work?
 
