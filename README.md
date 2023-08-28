@@ -21,8 +21,8 @@
 
 - 👀 I’m interested in Web Development (backend) and NLP
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate with other python developers and NLP developers
-- 👨‍💻 All of my projects are available at [My Portfolio](https://abdulrahman-ragab-developer.my.canva.site/)
+- 💞️ I’m looking to collaborate with other Python and NLP developers
+- 👨‍💻 All about me are available at [My Portfolio](https://abdulrahman-ragab-developer.my.canva.site/)
 - 📫 How to reach me: **abdulrahman.ragab.kabil@gmail.com**
 - 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1ZRd7uJUR_zAmBHVHVNwhMKly_ofcOHz-/view?usp=sharing)
 
