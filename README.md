@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://media.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" width="35"/>, I'm Abdulrahman Ragab </h1>
-<h3 align="center">I'm a Software Developer (backend), from Cairo, EG </h3>
+<h3 align="center">I'm a Software Developer, from Cairo, EG </h3>
 <br>
 
 <div id="badges" align="center">
