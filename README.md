@@ -1,5 +1,5 @@
-<h1 align="center">Hey <img src="https://media.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" width="35"/>, I'm Abdulrahman Ragab Kabil </h1>
-<h3 align="center">I'm a Software Developer (backend), from Cairo,EG </h3>
+<h1 align="center">Hey <img src="https://media.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" width="35"/>, I'm Abdulrahman Ragab </h1>
+<h3 align="center">I'm a Software Developer (backend), from Cairo, EG </h3>
 <br>
 
 <div id="badges" align="center">
@@ -22,11 +22,11 @@
 - 👀 I’m interested in Web Development (backend) and NLP
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate with other Python and NLP developers
-- 👨‍💻 All about me are available at [My Portfolio](https://abdulrahman-ragab-developer.my.canva.site/)
+- 👨‍💻 All about me is available at [My Portfolio](https://abdulrahman-ragab-developer.my.canva.site/portfolio)
 - 📫 How to reach me: **abdulrahman.ragab.kabil@gmail.com**
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1ZRd7uJUR_zAmBHVHVNwhMKly_ofcOHz-/view?usp=sharing)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1j4XGH7enf_jYow9eFTGUmJbBgkrbwDAT/view)
 
-Like My Work?
+Would you like My Work?
 
 <a href="https://www.buymeacoffee.com/abdulrahmaa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
