@@ -20,11 +20,11 @@
 ### 😄 Glad to see you here!    ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAbdulrahman-Kabil-developer1&labelColor=%2337d67a&countColor=%232ccce4)
 
 - 👀 I’m interested in Web Development (backend) and NLP
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate with other Python and NLP developers
 - 👨‍💻 All about me is available at [My Portfolio](https://abdulrahman-ragab-developer.my.canva.site/portfolio)
 - 📫 How to reach me: **abdulrahman.ragab.kabil@gmail.com**
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1j4XGH7enf_jYow9eFTGUmJbBgkrbwDAT/view)
+- 📄 Know about my experiences: [CV]([https://drive.google.com/file/d/1j4XGH7enf_jYow9eFTGUmJbBgkrbwDAT/view](https://drive.google.com/file/d/1aYXDIPQwNdAyjPKnKXUo_JjFZNPeqwZg/view?usp=sharing))
 
 Would you like My Work?
 
