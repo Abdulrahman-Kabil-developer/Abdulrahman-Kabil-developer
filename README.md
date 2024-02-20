@@ -24,7 +24,7 @@
 - 💞️ I’m looking to collaborate with other Python and NLP developers
 - 👨‍💻 All about me is available at [My Portfolio](https://abdulrahman-ragab-developer.my.canva.site/portfolio)
 - 📫 How to reach me: **abdulrahman.ragab.kabil@gmail.com**
-- 📄 Know about my experiences: [CV]([https://drive.google.com/file/d/1j4XGH7enf_jYow9eFTGUmJbBgkrbwDAT/view](https://drive.google.com/file/d/1aYXDIPQwNdAyjPKnKXUo_JjFZNPeqwZg/view?usp=sharing))
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1aYXDIPQwNdAyjPKnKXUo_JjFZNPeqwZg/view?usp=sharing)
 
 Would you like My Work?
 
