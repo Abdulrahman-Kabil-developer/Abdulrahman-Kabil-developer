@@ -3,13 +3,13 @@
 <br>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/abdulrahman-kabil-5729621a2/">
+  <a href="https://www.linkedin.com/in/abdulrahman-ragab-5729621a2/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://mail.google.com/mail/u/?authuser=abdulrahman.ragab.kabil@gmail.com">
+  <a href="mailto:abdulrahman.ragab.kabil@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-00acee?style=for-the-badge&logo=Gmail&color=red&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://wa.me/201280059456?text=from_Github_hey👋">
+  <a href="https://wa.me/201149312512?text=from_Github_hey👋">
     <img src="https://img.shields.io/badge/-Whatsapp-0088cc?style=for-the-badge&logo=Whatsapp&logoColor=white&color" alt="Whatsapp Badge"/>
   </a>
 </div>
@@ -24,7 +24,7 @@
 - 💞️ I’m looking to collaborate with other Python and NLP developers
 - 👨‍💻 All about me is available at [My Portfolio](https://abdulrahman-ragab-developer.my.canva.site/portfolio)
 - 📫 How to reach me: **abdulrahman.ragab.kabil@gmail.com**
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1aYXDIPQwNdAyjPKnKXUo_JjFZNPeqwZg/view?usp=sharing)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1L0ir9psjl4n2RV8uy0bkHJQtMTYV698r/view?usp=sharing)
 
 Would you like My Work?
 
